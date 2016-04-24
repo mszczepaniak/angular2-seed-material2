@@ -1,11 +1,8 @@
 # Angular2-Seed Materialized [![Build Status](https://travis-ci.org/DeviantJS/angular2-seed-material2.svg?branch=master)](https://travis-ci.org/DeviantJS/angular2-seed-material2) [![codecov.io](https://codecov.io/github/DeviantJS/angular2-seed-material2/coverage.svg?branch=master)](https://codecov.io/github/DeviantJS/angular2-seed-material2?branch=master)
-> material2-2.0.0-alpha.0
-
-**Application components will be updated as soon as @angular2-material [alpha.2](https://github.com/angular/material2/milestones/alpha.2) drops**
+> material2-2.0.0-alpha.3
 
 ## Deviations from the based seed project
 - Angular2-Material
-- SASS (Because CSS === Yuck)
 
 ## This repo is intended to guide you through the addition of Angular2-Material on top of your angular2-seed fork
 - Please don't make project forks of this repo unless it's for contribution ( build ontop of the official seed )
