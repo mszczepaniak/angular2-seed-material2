@@ -10,3 +10,13 @@ h2 {
   margin-bottom: 0;
   margin-top: 0.83em;
 }
+
+.about-card {
+  font-size: 14px;
+  width: 100%;
+}
+
+.about-card-container {
+  padding-top: 20px;
+  padding: 20px;
+}
